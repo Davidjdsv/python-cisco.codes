@@ -13,3 +13,4 @@ def ordenar_pivote(arr):
 
 print(array)
 print(ordenar_pivote(array))
+print("Esta vaina funciona")
